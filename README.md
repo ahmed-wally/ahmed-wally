@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Wally</h1>
 
-<!--
-**ahmed-wally/ahmed-wally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Contacts:</h3>
 
-Here are some ideas to get you started:
+📧 ahmed.wally@aol.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🪪 I am Ahmed Ibrahim Ibrahim El-Wally ( Ahmed Wally )  
+🏫 a student in the Alexandria Faculity of Medicine  
+💻 interested in programming and medical sciences  
+📒 passionate about the intersections of computer and medical sciences  
+🏹 I seek to join projects that serve people, contribute to open source, join discussions, learn new things,and share knowledge  
+
+---
+
+🚀 [My account @Medium](https://medium.com/@ahmed-wally)
+🚀 [My account @dev.to](https://dev.to/ahmed-wally)

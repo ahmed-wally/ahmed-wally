@@ -3,6 +3,7 @@
 <h3 align="left">Contacts:</h3>
 
 📧 ahmed.wally@aol.com  
+💬 [My account @discord](https://discord.gg/CynwgD4M)
 
 ---
 
@@ -16,4 +17,4 @@
 
 🚀 [My account @Medium](https://medium.com/@ahmed-wally)  
 🚀 [My account @dev.to](https://dev.to/ahmed-wally)  
-🚀 My username @discord: @ahmed_wally
+

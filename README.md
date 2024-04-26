@@ -3,7 +3,6 @@
 <h3 align="left">Contacts:</h3>
 
 📧 ahmed.wally@aol.com  
-💬 [My account @discord](https://discord.gg/CynwgD4M)
 
 ---
 

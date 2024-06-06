@@ -6,7 +6,7 @@
 
 ---
 
-🪪 I am Ahmed Ibrahim Ibrahim El-Wally ( Ahmed Wally )  
+🪪 I am Ahmed Ibrahim Ibrahim Said Ahmed isaa El-Wally ( Ahmed Wally )  
 🏫 a student in the Alexandria Faculity of Medicine  
 💻 interested in programming, medical sciences and research  
 

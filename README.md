@@ -5,9 +5,11 @@
 📧 ahmed.wally@aol.com  
 
 ---
+
 🪪 I am Ahmed Ibrahim Ibrahim El-Wally ( Ahmed Wally )  
 🏫 a student in the Alexandria Faculity of Medicine  
 💻 interested in programming, medical sciences and research  
+
 ---
 
 🚀 [My account @dev.to](https://dev.to/ahmed-wally)  

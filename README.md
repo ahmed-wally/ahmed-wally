@@ -7,7 +7,7 @@
 ---
 
 🪪 I am Ahmed Ibrahim Ibrahim Said Ahmed Isaa El-Wally ( Ahmed I. Wally )  
-🏫 a student in the Alexandria Faculity of Medicine  
+🏫 Student in the Alexandria Faculity of Medicine  
 
 ---
 
